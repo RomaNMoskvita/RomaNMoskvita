@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to my 🌐 GitHub profile</h1>
-<img align="right" alt="Coding" width="100%" height="40vh" src="wiard_fishh.gif" />
+<img align="right" alt="Coding" width="100%" height="40%" src="wiard_fishh.gif" />
 
 <h2 align="center">Hello there -_-</h1>
 <h3 align="center">I hope you find some helpful and exciting projects as you explore my GitHub profile</h3>
