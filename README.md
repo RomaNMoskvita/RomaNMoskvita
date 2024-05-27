@@ -9,7 +9,7 @@
 - 📫 How to reach me **moskvita.roman@gmail.com**
 - 🌱 I’m currently learning **React**
 <p align="right">
-➡️ Visit here my portfolio: <a href="https://rmoskvita-dev.netlify.app/">https://myPortfolio/RMoskvita</a>
+➡️ Visit here my portfolio: <a href="https://rmoskvita-dev.netlify.app/">https://rmoskvita-dev.netlify.app</a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
