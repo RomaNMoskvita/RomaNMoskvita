@@ -18,15 +18,15 @@
 <p align="left">
 <a href="https://www.python.org">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-</a>&nbsp;&nbsp;
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.djangoproject.com/">
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/>
-</a>&nbsp;&nbsp;
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.w3.org/html/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-</a>&nbsp;&nbsp;
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.mysql.com/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
@@ -35,8 +35,18 @@
   
 <h3 align="left">PLC Programming Languages:</h3>
 
-  <span>ZBrush</span>
-  <span>Catia V5</span>
-  <span>Cura 3D Printing</span>
-
+  <span>LAD</span>&nbsp;&nbsp;
+  <span>FBD</span>&nbsp;&nbsp;
+  <span>SCL</span>&nbsp;&nbsp;
+  <span>ST</span>&nbsp;&nbsp;
+  <span>Graph</span>
+  
+<h3 align="left">3D Modeling & CAD:</h3>
+  <span>Catia V5</span>&nbsp;&nbsp;
+ 
+  <span>Rhino 3d</span>&nbsp;&nbsp;
+  <span>Ultimaker Cura 3D</span>&nbsp;&nbsp;
+  <span>Autodesk Maya</span>&nbsp;&nbsp;
+  <span>Zbrush</span>&nbsp;&nbsp;
+  <span>Rhino 3D</span>&nbsp;&nbsp;
 </div>
