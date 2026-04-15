@@ -15,34 +15,24 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<table>
-  <tr>
-    <td>
-      <a href="https://www.python.org">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-      </a>
-    </td>
+<p align="left">
+<a href="https://www.python.org">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+</a>
 
-    <td>
-      <a href="https://www.djangoproject.com/">
-        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/>
-      </a>
-    </td>
+<a href="https://www.djangoproject.com/">
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/>
+</a>
 
-    <td>
-      <a href="https://www.w3.org/html/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-      </a>
-    </td>
+<a href="https://www.w3.org/html/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+</a>
 
-    <td>
-      <a href="https://www.mysql.com/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-      </a>
-    </td>
+<a href="https://www.mysql.com/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+</a>
 
-    <td>ZBrush</td>
-    <td>Catia V5</td>
-    <td>Cura 3D Printing</td>
-  </tr>
-</table>
+<span>ZBrush</span>
+<span>Catia V5</span>
+<span>Cura 3D Printing</span>
+</p>
