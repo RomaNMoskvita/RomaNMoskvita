@@ -43,7 +43,6 @@
   
 <h3 align="left">3D Modeling & CAD:</h3>
   <span>Catia V5</span>&nbsp;&nbsp;
- 
   <span>Rhino 3d</span>&nbsp;&nbsp;
   <span>Ultimaker Cura 3D</span>&nbsp;&nbsp;
   <span>Autodesk Maya</span>&nbsp;&nbsp;
