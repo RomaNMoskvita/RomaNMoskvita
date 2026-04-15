@@ -15,23 +15,23 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<div style="display: flex; gap: 120px; align-items: center; flex-wrap: wrap;">
-  
-  <a href="https://www.python.org">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  </a>
+<p align="left">
+<a href="https://www.python.org">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+</a>&nbsp;&nbsp;
 
-  <a href="https://www.djangoproject.com/">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/>
-  </a>
+<a href="https://www.djangoproject.com/">
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/>
+</a>&nbsp;&nbsp;
 
-  <a href="https://www.w3.org/html/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-  </a>
+<a href="https://www.w3.org/html/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+</a>&nbsp;&nbsp;
 
-  <a href="https://www.mysql.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-  </a>
+<a href="https://www.mysql.com/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+</a>
+</p>
   
 <h3 align="left">PLC Programming Languages:</h3>
 
