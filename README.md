@@ -15,26 +15,34 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left" style="white-space: nowrap;">
+<table>
+  <tr>
+    <td>
+      <a href="https://www.python.org">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+      </a>
+    </td>
 
-<a href="https://www.python.org" target="_blank" rel="noreferrer" style="display:inline-block;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-</a>
+    <td>
+      <a href="https://www.djangoproject.com/">
+        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/>
+      </a>
+    </td>
 
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer" style="display:inline-block;">
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/>
-</a>
+    <td>
+      <a href="https://www.w3.org/html/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+      </a>
+    </td>
 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="display:inline-block;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-</a>
+    <td>
+      <a href="https://www.mysql.com/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+      </a>
+    </td>
 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="display:inline-block;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<span style="display:inline-block;">ZBrush</span>
-<span style="display:inline-block; margin-left:10px;">Catia V5</span>
-<span style="display:inline-block; margin-left:10px;">Cura 3D Printing</span>
-
-</p>
+    <td>ZBrush</td>
+    <td>Catia V5</td>
+    <td>Cura 3D Printing</td>
+  </tr>
+</table>
