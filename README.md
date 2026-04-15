@@ -32,6 +32,8 @@
   <a href="https://www.mysql.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
   </a>
+  
+<h3 align="left">PLC Programming Languages:</h3>
 
   <span>ZBrush</span>
   <span>Catia V5</span>
