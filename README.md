@@ -15,39 +15,26 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left">
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
+<p align="left" style="white-space: nowrap;">
+
+<a href="https://www.python.org" target="_blank" rel="noreferrer" style="display:inline-block;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-</a> &nbsp;
+</a>
 
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer" style="display:inline-block;">
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/>
-</a> &nbsp;
+</a>
 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="display:inline-block;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-</a> &nbsp;
+</a>
 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="display:inline-block;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-</a> &nbsp;
+</a>
 
-<span>ZBrush</span> &nbsp;
-<span>Catia V5</span> &nbsp;
-<span>Cura 3D Printing</span>
-</p>
+<span style="display:inline-block;">ZBrush</span>
+<span style="display:inline-block; margin-left:10px;">Catia V5</span>
+<span style="display:inline-block; margin-left:10px;">Cura 3D Printing</span>
 
-<h3 align="left">PLC Programming Languages:</h3>
-
-<p align="left">
-<span>LAD</span> &nbsp;&nbsp;
-<span>FBD</span> &nbsp;&nbsp;
-<span>SCL</span>
-</p>
-<h3 align="left">PLC Programming Languages:</h3>
-
-<p align="left">
-<span>LAD</span> &nbsp;&nbsp;
-<span>FBD</span> &nbsp;&nbsp;
-<span>SCL</span>
 </p>
