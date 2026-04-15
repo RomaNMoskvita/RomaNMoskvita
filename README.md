@@ -14,38 +14,39 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+
+<p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a> &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+</a> &nbsp;
 
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-</a> &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/>
+</a> &nbsp;
 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/>
-</a> &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+</a> &nbsp;
 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40"/>
-</a> &nbsp;&nbsp;&nbsp;
+<span>SQL</span> &nbsp;
 
 <a href="https://www.zbrush.com/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/ZBrush_Logo.png" alt="zbrush" width="40" height="40"/>
-</a> &nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/ZBrush_Logo.png" width="40" height="40"/>
+</a> &nbsp;
 
 <a href="https://www.3ds.com/products-services/catia/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/CATIA_logo.svg" alt="catia v5" width="40" height="40"/>
-</a> &nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/CATIA_logo.svg" width="40" height="40"/>
+</a> &nbsp;
 
 <a href="https://ultimaker.com/software/ultimaker-cura/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Ultimaker_Cura_logo.svg" alt="cura" width="40" height="40"/>
-</a> &nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Ultimaker_Cura_logo.svg" width="40" height="40"/>
+</a>
+</p>
 
-<!-- PLC / Industrial -->
-<span title="LAD (Ladder Logic)" style="font-size:14px;">LAD</span> &nbsp;&nbsp;&nbsp;
-<span title="FBD (Function Block Diagram)" style="font-size:14px;">FBD</span> &nbsp;&nbsp;&nbsp;
-<span title="SCL (Structured Control Language)" style="font-size:14px;">SCL</span>
+<h3 align="left">PLC Programming Languages:</h3>
 
+<p align="left">
+<span>LAD</span> &nbsp;&nbsp;
+<span>FBD</span> &nbsp;&nbsp;
+<span>SCL</span>
 </p>
