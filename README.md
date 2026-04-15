@@ -32,9 +32,17 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
 </a> &nbsp;
 
-<span>ZBrush</span> &nbsp;
-<span>Catia V5</span> &nbsp;
-<span>Cura 3D Printing</span>
+<a href="https://www.zbrush.com/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/ZBrush_Logo.png" width="40" height="40"/>
+</a> &nbsp;
+
+<a href="https://www.3ds.com/products-services/catia/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/CATIA_logo.svg" width="40" height="40"/>
+</a> &nbsp;
+
+<a href="https://ultimaker.com/software/ultimaker-cura/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Ultimaker_Cura_logo.svg" width="40" height="40"/>
+</a>
 </p>
 
 <h3 align="left">PLC Programming Languages:</h3>
