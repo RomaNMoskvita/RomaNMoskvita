@@ -15,7 +15,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<div style="display: flex; gap: 12px; align-items: center; flex-wrap: wrap;">
+<div style="display: flex; gap: 120px; align-items: center; flex-wrap: wrap;">
   
   <a href="https://www.python.org">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
